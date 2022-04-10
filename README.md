@@ -34,9 +34,10 @@ To make your victim run the script, send it to them.
 
 https://i.imgur.com/UnaleM1.jpg
 
+-----------------------------------------------------------------------------------------------------------------
+
 **Caution**
 
------------------------------------------------------------------------------------------------------------------
 
 This script is intended to be used for educational purposes only.
 I take no responsibility for any difficulty caused. 
