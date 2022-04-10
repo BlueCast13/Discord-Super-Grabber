@@ -4,15 +4,15 @@
 **Features**
 
 
-There is no data caching.
+- There is no data caching.
 
-Transfers are made over a Discord webhook.
+- Transfers are made over a Discord webhook.
 
-Searching several directories for tokens (Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex).
+- Searching several directories for tokens (Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex).
 
-No other Python modules are required.
+- No other Python modules are required.
 
-There are no other Python modules required.
+- There are no other Python modules required.
 
 
 **How to Make Use of**
